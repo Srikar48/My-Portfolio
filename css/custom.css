@@ -1,0 +1,19 @@
+li a:hover {
+	color: white !important;
+}
+li a{
+	font-family: Verdana !important;
+	letter-spacing: 2px !important;
+}
+a button:hover {
+	color: purple !important;
+	background: #aaa !important;
+	border-color: purple !important;
+}
+button a {
+	color: white;
+}
+button a:hover {
+	text-decoration: none;
+	color: white;
+}
